@@ -1,7 +1,9 @@
-<h1 align="center">Fala aí, eu sou o Samuel Muniz! 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Fala+aí,+eu+sou+o+Samuel+Muniz!;Desenvolvedor+Fullstack;Amante+de+tecnologia+e+café!☕&center=true&width=380&height=45">
+</h1>
 
 <p align="center">
-  🚀 Desenvolvedor Front-end | 💻 Entusiasta de tecnologia | 📚 Estudante de ADS
+  🚀 Desenvolvedor Fullstack | 💻 Entusiasta de tecnologia | 📚 Analista e Desenvolvedor de Sistemas
 </p>
 
 <br/>
@@ -13,9 +15,10 @@
 <br/>
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Samuel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Samuel-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Samuel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Samuel-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Samuel-Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-plain.svg">
   <img align="center" alt="Samuel-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Samuel-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Samuel-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
