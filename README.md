@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Fala+aí,+eu+sou+o+Samuel+Muniz!;Desenvolvedor+Fullstack;Amante+de+tecnologia+e+café!☕&center=true&width=380&height=45">
-</h1>
+<h1 align="center">Fala aí, eu sou o Samuel Muniz! 👋</h1>
 
 <p align="center">
   🚀 Desenvolvedor Fullstack | 💻 Entusiasta de tecnologia | 📚 Analista e Desenvolvedor de Sistemas
@@ -13,6 +11,12 @@
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"/>
+</div>
+
+<br />
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Samuel-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
