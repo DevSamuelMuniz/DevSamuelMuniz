@@ -33,14 +33,7 @@
 - 🗄️ Banco de Dados: SqlServer, MySql, MongoDB, PostgreSQL, SQLite
 - 🎨 Design: Figma, coreldraw, photoshop, Canva
 
-<br/>
 
-## 📊 Meus Status no GitHub:
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevSamuelMuniz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSamuelMuniz&layout=compact&langs_count=7&theme=radical"/>
-</div>
 
 <br/>
 
