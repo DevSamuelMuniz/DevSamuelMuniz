@@ -28,9 +28,9 @@
 
 ## 🚀 Minhas Skills
 
-- ⚡ Front-end: React, Next.js, JavaScript, TypeScript, HTML5, CSS3
-- 🛠️ Back-end: Python, C#
-- 🗄️ Banco de Dados: SQLite, PostgreSQL
+- ⚡ Front-end: React, Next.js, TypeScript, HTML5, CSS3, Tailwind
+- 🛠️ Back-end: Python, C#, Javascript
+- 🗄️ Banco de Dados: SqlServer, MySql, MongoDB, PostgreSQL, SQLite
 - 🎨 Design: Figma, coreldraw, photoshop, Canva
 
 <br/>
